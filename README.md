@@ -1,4 +1,4 @@
-# Desafios Data Science Intelivix
+# Desafio Data Science Intelivix
 
 Escolha UM dos testes abaixo. Quanto mais avançado o nível da sua escolha, maior sua pontuação.
 
