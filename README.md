@@ -37,10 +37,10 @@ O desafio consiste em:
 O treinamento deve possuir duas etapas:
 
 1. Pré-processamento:
-..* Extrair tokens, eliminando pontuações, stopwords e realizando stemming (ou stemização) nos termos restantes;
-..* Os textos de treinamento, representados por listas dos tokens restantes, devem ser convertidos em uma matriz TF-IDF (Text Frequency – Inverse Document Frequency).
+ 1. Extrair tokens, eliminando pontuações, stopwords e realizando stemming (ou stemização) nos termos restantes;
+ 2. Os textos de treinamento, representados por listas dos tokens restantes, devem ser convertidos em uma matriz TF-IDF (Text Frequency – Inverse Document Frequency).
 2. Classificação:
-..* Cada linha da matriz, que representa um documento da base de treinamento, deve ser apresentada a um classificador juntamente com sua categoria, de forma que ocorra o aprendizado.	
+ 1. Cada linha da matriz, que representa um documento da base de treinamento, deve ser apresentada a um classificador juntamente com sua categoria, de forma que ocorra o aprendizado.	
 
 O teste do classificador deve seguir o mesmo raciocínio. Um detalhe importante é o cálculo da parte IDF do vetor de características formado a partir do texto em teste, que deve ser feito usando as “variáveis globais” do cálculo da matriz TF-IDF da base de treinamento.
 
@@ -70,10 +70,10 @@ O desafio consiste em:
 O treinamento deve possuir duas etapas:
 
 1. Pré-processamento:
-..* Extrair tokens, eliminando pontuações, stopwords e realizando stemming (ou stemização) nos termos restantes;
-..* Os textos de treinamento, representados por listas dos tokens restantes, devem ser convertidos em uma matriz TF-IDF (Text Frequency – Inverse Document Frequency).
+ 1. Extrair tokens, eliminando pontuações, stopwords e realizando stemming (ou stemização) nos termos restantes;
+ 2. Os textos de treinamento, representados por listas dos tokens restantes, devem ser convertidos em uma matriz TF-IDF (Text Frequency – Inverse Document Frequency).
 2. Classificação:
-..* Cada linha da matriz, que representa um documento da base de treinamento, deve ser apresentada a um classificador juntamente com sua categoria, de forma que ocorra o aprendizado.	
+ 1. Cada linha da matriz, que representa um documento da base de treinamento, deve ser apresentada a um classificador juntamente com sua categoria, de forma que ocorra o aprendizado.	
 
 O teste do classificador deve seguir o mesmo raciocínio. Um detalhe importante é o cálculo da parte IDF do vetor de características formado a partir do texto em teste, que deve ser feito usando as “variáveis globais” do cálculo da matriz TF-IDF da base de treinamento.
 
