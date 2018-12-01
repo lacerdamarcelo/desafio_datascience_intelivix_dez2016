@@ -43,3 +43,5 @@ Sobre a entrega:
 1. Deve-se escolher diferentes algoritmos de classificação e/ou regressão, realizar o ajuste offline de hiper-parâmetros, treiná-los com a base no arquivo train.tsv, testá-los com o arquivo test.tsv e reportar os resultados, comparando-os e escolhendo o melhor, justificando a escolha. As justificativas devem ser feitas através da análise dos dados, mas deve estar também embasada na literatura científica com referências a artigos da área.
 2. Os códigos e o relatório devem ser entregues em um ipython notebook didático, o qual deve ser auto-suficiente para ser executado (assumindo que o computador a executar possua todas as ferramentas necessárias instaladas).
 3. O relatório deve conter todas as tentativas para resolver o problema, como se estivesse contando a história da estrada percorrida para se chegar no resultado.
+
+Quaisquer dúvidas podem ser enviadas para arthur@intelivix.com com cópia para marcelo@intelivix.com. O candidato deve registrar o tempo despendido para o desenvolvimento. Não existe um escopo de tempo oficial, mas o ideal é que não ultrapasse 1 semana.
