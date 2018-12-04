@@ -12,7 +12,7 @@ O desafio consiste em:
 
 2. Categorizar os exemplos da base de teste que devem ser apresentados ao classificador.
 
-#Sobre a entrega:
+Sobre a entrega:
 
 1. Deve-se escolher 3 diferentes classificadores, treiná-los, testá-los e reportar os resultados, comparando-os e escolhendo o melhor, justificando a escolha.
 
